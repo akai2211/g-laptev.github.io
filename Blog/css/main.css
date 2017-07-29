@@ -201,6 +201,7 @@ input::placeholder {
 }
 
 .widget img {
+	box-sizing: border-box;
 	border: 1px solid #b9b9b9;
 	margin-top: 8px;
 	max-width: 100%;
