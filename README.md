@@ -11,7 +11,7 @@
 
 [Урок 04](https://g-laptev.github.io/Lesson_04/ "Готово") - Знакомство с основами HTML.
 
-[Урок 05](https://g-laptev.github.io/Lesson_04/ "Готово") - Знакомство с основами CSS.
+[Урок 05](https://g-laptev.github.io/Lesson_05/ "Готово") - Знакомство с основами CSS.
 
 [Урок 06.1](https://g-laptev.github.io/Lesson_06.1/ "Готово") - Позиционирование в CSS.
 
