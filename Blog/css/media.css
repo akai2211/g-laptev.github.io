@@ -1,0 +1,103 @@
+@media screen and (max-width: 768px) {
+	.main-header {
+		height: 65px;
+	}
+
+	.menu li a {
+		padding: 23px 31px 20px 48px;
+	}
+
+	.logo {
+		margin-left: 25px;
+		margin-top: 20px;
+	}
+
+	.main-content {
+		padding-top: 25px;
+	}
+
+	section {
+		float: none;
+		width: 93%;
+		margin: 0 auto;
+	}
+
+	article>header img {
+		width: 100%;
+	}
+	
+	.published {
+		bottom: 0;
+	}
+
+	article>h2 {
+		margin-bottom: 30px;
+	}
+
+	aside {
+		width: 93%;
+	}
+
+	.widget {
+		font-size: 1.3em;
+	}
+
+	.widget li {
+		float: left;
+		margin: 1em 2em 0 0;
+	}
+
+	.widget img {
+		margin: 0 auto;
+		text-align: center;
+		display: block;
+	}
+
+	.main-footer img {
+		margin: 40px 0 20px 0;
+	}
+	.main-footer p {
+		padding-bottom: 70px;
+	}
+}
+
+@media screen and (max-width: 642px) {
+	.main-header {
+		height: 110px;
+	}
+	.logo {
+		margin: 0 auto;
+		float: none;
+		display: block;
+		padding-top: 20px;
+	}
+
+	.menu {
+		float: none;
+		padding-top: 5px;
+		width: 100%;
+	}
+
+	.menu li a {
+		padding: 15px 31px 15px 48px;
+	}
+}
+
+@media screen and (max-width: 532px) {
+	.main-header {
+		height: 162px;
+	}
+
+	article h2 {
+		margin: 0 0 25px 0px;
+		font-size: 1.5em;
+	}
+
+	article p {
+		margin: 0 0 17px 0px;
+	}
+
+	article>header>p {
+		margin: 0;
+}
+}
