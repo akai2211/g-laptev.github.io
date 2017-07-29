@@ -1,0 +1,169 @@
+@media screen and (max-width: 1192px) {
+	section {
+		padding: 0 9%;
+	}
+}
+
+@media screen and (max-width: 1134px) {
+	section {
+		padding: 0 7%;
+	}
+}
+
+@media screen and (max-width: 1081px) {
+	section {
+		padding: 0 6%;
+	}
+}
+
+@media screen and (max-width: 1056px) {
+	section {
+		padding: 0 4%;
+	}
+}
+
+@media screen and (max-width: 1011px) {
+	section {
+		padding: 0 3%;
+	}
+
+	.form {
+		margin-left: 10px;
+	}
+}
+
+@media screen and (max-width: 983px) {
+	.item {
+		margin: 80px 50px 96px 50px;
+	}
+}
+
+@media screen and (max-width: 970px) {
+	.header {
+		margin-top: 50px;
+	}
+
+	section {
+		padding: 0 21%;
+	}
+
+	.form {
+		display: block;
+		margin: 25px auto;
+	}
+
+	.feature {
+		margin: 80px 0 130px 0;
+	}
+
+	.item {
+		margin: 80px 60px 96px 70px;
+	}
+}
+
+@media screen and (max-width: 879px) {
+	section {
+		padding: 0 15%;
+	}
+}
+
+@media screen and (max-width: 779px) {
+	section {
+		padding: 0 10%;
+	}
+}
+
+@media screen and (max-width: 744px) {
+	.video {
+		height: 271px;
+	}
+}
+
+@media screen and (max-width: 682px) {
+	section {
+		padding: 0 8%;
+	}
+}
+
+@media screen and (max-width: 654px) {
+	.video {
+		width:100%;
+	}
+}
+
+@media screen and (max-width: 607px) {
+	.item {
+		margin: 50px 35px 47px 76px;
+	}
+}
+
+@media screen and (max-width: 561px) {
+	.item {
+		margin: 50px 35px 47px 58px;
+	}
+}
+
+@media screen and (max-width: 518px) {
+	.item {
+		margin: 50px 10px 47px 55px;
+	}
+}
+
+@media screen and (max-width: 520px) {
+	.video {
+		height: 246px;
+	}
+}
+
+@media screen and (max-width: 470px) {
+	section {
+		padding: 0 3%;
+	}
+
+	.video {
+		width:100%;
+	}
+
+	.form {
+		width: 100%;
+	}
+
+	.form input {
+		width: 100%;
+	}
+
+	.btn {
+		width: 100%;
+		padding: 10px 40px;
+	}
+}
+
+@media screen and (max-width: 404px) {
+	.item {
+		margin: 50px 5px 47px 42px;
+	}
+}
+
+@media screen and (max-width: 365px) {
+	.item {
+		margin: 50px 5px 47px 25px;
+	}
+}
+
+@media screen and (max-width: 398px) {
+	.video {
+		width:100%;
+	}
+}
+
+@media screen and (max-width: 358px) {
+	.video {
+		height: 190px;
+	}
+}
+
+@media screen and (max-width: 329px) {
+	.item {
+		margin: 50px 5px 47px 15px;
+	}
+}

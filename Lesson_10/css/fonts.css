@@ -1,0 +1,21 @@
+/* font-family: "AABebasNeue"; */
+@font-face {
+	font-family: "AABebasNeue";
+	src: url("../fonts/AABebasNeue/AABebasNeue.eot");
+	src: url("../fonts/AABebasNeue/AABebasNeue.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/AABebasNeue/AABebasNeue.woff") format("woff"),
+	url("../fonts/AABebasNeue/AABebasNeue.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "PTSansNarrow"; */
+@font-face {
+	font-family: "PTSansNarrow";
+	src: url("../fonts/PTSansNarrow/PTSansNarrow.eot");
+	src: url("../fonts/PTSansNarrow/PTSansNarrow.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/PTSansNarrow/PTSansNarrow.woff") format("woff"),
+	url("../fonts/PTSansNarrow/PTSansNarrow.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}

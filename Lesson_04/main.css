@@ -1,0 +1,63 @@
+body {
+	background: #ccc;
+	font-size: 1.5em;
+}
+
+.book {
+	margin: 0 auto;
+	width: 960px;
+}
+
+.cover-book, h2, h3, h4 {
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+}
+
+a {
+	color: #82C745
+}
+
+a:hover {
+	color: #26E360;
+}
+
+h3 {
+	text-decoration: underline;
+}
+
+p {
+	text-align: justify;
+}
+
+#chapter-1 p {
+	font-style: italic;
+}
+
+#chapter-2 p {
+	font-weight: bold;
+}
+
+#subchapter-2-1 p {
+	text-decoration: line-through;
+}
+
+.up {
+	position: fixed;
+	bottom: 44px;
+	right: 60px;
+	background: #555;
+}
+
+.up a {
+	display: block;
+	padding: 20px;
+}
+
+footer p {
+	border-top: 3px solid #000000;
+	padding: 30px;
+	text-align: center;
+}

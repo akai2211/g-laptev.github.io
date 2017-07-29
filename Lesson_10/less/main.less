@@ -1,0 +1,121 @@
+.size() {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+@bg-color-1: #f8c14c;
+@bg-color-2: #f49f23;
+@bg-menu: #232323;
+@bg-text-menu: #f8be48;
+@bg-text-h1: #fbd59c;
+@color-text-h1: #505050;
+@a-color: #232323;
+@bg-color-prod: #e5e5e5;
+@border-color: #c2c2c2;
+
+body {
+	box-sizing: border-box;
+}
+
+.header-bg {
+	margin-bottom: 3px;
+	width: 100%;
+	min-height: 152px;
+	/* background: linear-gradient(180deg, @bg-color-1, @bg-color-2); */
+	background: @bg-color-1;
+	background: -moz-linear-gradient(top, @bg-color-1 0%, @bg-color-2 100%);
+	background: -webkit-linear-gradient(top, @bg-color-1 0%,@bg-color-2 100%);
+	background: linear-gradient(to bottom, @bg-color-1 0%,@bg-color-2 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='@bg-color-1', endColorstr='@bg-color-2',GradientType=0 );
+}
+
+.header {
+	.size;
+	padding-top: 33px;
+}
+
+.menu {
+	background: @bg-menu;
+	float: right;
+	
+	li {
+		float: left;
+		
+		a {
+			display: block;
+			padding: 30px 20px 30px 18px;
+			color: @bg-text-menu;
+			text-decoration: none;
+			font-family: "PTSansNarrow", sans-serif;
+			font-size: 18px;
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+}
+
+.bg-text-main {
+	margin-bottom: 66px;
+	width: 100%;
+	background-color: @bg-text-h1;
+	.main-text {
+		.size;
+
+		h1 {
+			padding: 23px 0;
+			font-family: "AABebasNeue", sans-serif;
+			font-size: 38px;
+			color: @color-text-h1;
+		}
+	}
+}
+
+.content {
+	.size;
+}
+
+.product {
+	display: inline-block;
+	position: relative;
+	width: 240px;
+	height: 73px;
+	margin: 0 0 45px 9px;
+	background-color: @bg-color-prod;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	.product-img {
+		display: inline-block;
+		background: #fff;
+		height: 100%;
+		border-right: 1px dashed @border-color;
+
+		img {
+			width: 87px;
+			height: 64px;
+			margin-top: 7px;
+		}
+	}
+	&:nth-child(1) {
+		margin-left: 0;
+	}
+	&:nth-child(5) {
+		margin-left: 0;
+	}
+	&:nth-child(9) {
+		margin-left: 0;
+	}
+
+	a {
+		position: absolute;
+		top: 22px;
+		left: 115px;
+		font-family: "Tahoma", sans-serif;
+		font-size: 14px;
+		color: @a-color;
+		display: table-cell;
+		vertical-align: middle;
+		&:hover {
+			text-decoration: none;
+		}
+	}
+}

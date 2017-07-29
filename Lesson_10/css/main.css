@@ -1,0 +1,99 @@
+body {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.header-bg {
+  margin-bottom: 3px;
+  width: 100%;
+  min-height: 152px;
+  /* background: linear-gradient(180deg, @bg-color-1, @bg-color-2); */
+  background: #f8c14c;
+  background: -webkit-gradient(linear, left top, left bottom, from(#f8c14c), to(#f49f23));
+  background: linear-gradient(to bottom, #f8c14c 0%, #f49f23 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@bg-color-1', endColorstr='@bg-color-2', GradientType=0);
+}
+.header {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding-top: 33px;
+}
+.menu {
+  background: #232323;
+  float: right;
+}
+.menu li {
+  float: left;
+}
+.menu li a {
+  display: block;
+  padding: 30px 20px 30px 18px;
+  color: #f8be48;
+  text-decoration: none;
+  font-family: "PTSansNarrow", sans-serif;
+  font-size: 18px;
+}
+.menu li a:hover {
+  text-decoration: underline;
+}
+.bg-text-main {
+  margin-bottom: 66px;
+  width: 100%;
+  background-color: #fbd59c;
+}
+.bg-text-main .main-text {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.bg-text-main .main-text h1 {
+  padding: 23px 0;
+  font-family: "AABebasNeue", sans-serif;
+  font-size: 38px;
+  color: #505050;
+}
+.content {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.product {
+  display: inline-block;
+  position: relative;
+  width: 240px;
+  height: 73px;
+  margin: 0 0 45px 9px;
+  background-color: #e5e5e5;
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.product .product-img {
+  display: inline-block;
+  background: #fff;
+  height: 100%;
+  border-right: 1px dashed #c2c2c2;
+}
+.product .product-img img {
+  width: 87px;
+  height: 64px;
+  margin-top: 7px;
+}
+.product:nth-child(1) {
+  margin-left: 0;
+}
+.product:nth-child(5) {
+  margin-left: 0;
+}
+.product:nth-child(9) {
+  margin-left: 0;
+}
+.product a {
+  position: absolute;
+  top: 22px;
+  left: 115px;
+  font-family: "Tahoma", sans-serif;
+  font-size: 14px;
+  color: #232323;
+  display: table-cell;
+  vertical-align: middle;
+}
+.product a:hover {
+  text-decoration: none;
+}
