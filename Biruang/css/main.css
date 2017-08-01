@@ -250,12 +250,8 @@
 	width: 23.077%;
 }
 
-.product:first-child {
+.product:nth-child(2) {
 	margin-left: 0;
-}
-
-.pr1 {
-//	margin-left: 0;
 }
 
 .product img {
