@@ -27,3 +27,5 @@
 [Урок 11](https://g-laptev.github.io/Lesson_11/ "Готово") -  Сниппеты.
 
 [Урок 12](https://g-laptev.github.io/ "Готово") -  Хостинг от GitHub.
+
+[Урок 13](https://g-laptev.github.io/Lesson_13/ "Готово") -  Адаптивная верстка.
