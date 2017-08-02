@@ -30,4 +30,6 @@
 
 [Урок 13](https://g-laptev.github.io/Lesson_13/ "Готово") -  Адаптивная верстка.
 
+[Урок 13.1](https://g-laptev.github.io/Lesson_13.1/ "Готово") -  Практика Часть 1.
+
 [Все исходники](https://github.com/g-laptev/g-laptev.github.io/ "Исходники")
