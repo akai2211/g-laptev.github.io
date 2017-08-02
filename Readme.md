@@ -32,4 +32,6 @@
 
 [Урок 13.1](https://g-laptev.github.io/Lesson_13.1/ "Готово") -  Практика Часть 1.
 
+[Урок 14](https://g-laptev.github.io/Lesson_14/ "Готово") -  Подключение шрифтов.
+
 [Все исходники](https://github.com/g-laptev/g-laptev.github.io/ "Исходники")
