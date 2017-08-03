@@ -36,4 +36,6 @@
 
 [Урок 14.1](https://g-laptev.github.io/Lesson_14.1/ "Готово") -  Практика Часть 2.
 
+[Урок 15](https://g-laptev.github.io/Lesson_15/ "Готово") -  Псевдоклассы и псевдоэлементы.
+
 [Все исходники](https://github.com/g-laptev/g-laptev.github.io/ "Исходники")
