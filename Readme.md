@@ -38,4 +38,10 @@
 
 [Урок 15](https://g-laptev.github.io/Lesson_15/ "Готово") -  Псевдоклассы и псевдоэлементы.
 
+[Урок 15.1](https://g-laptev.github.io/Lesson_15.1/ "Готово") -  Эффекты при наведении и адаптив первого экрана.
+
+[Урок 16](https://g-laptev.github.io/Lesson_16/ "Готово") -  Слайдер на сайте.
+
+[Урок 16.1](https://g-laptev.github.io/Lesson_16.1/ "Готово") -  Верстка блока с преимуществами. Слайдер.
+
 [Все исходники](https://github.com/g-laptev/g-laptev.github.io/ "Исходники")
