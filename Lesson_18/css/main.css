@@ -1,0 +1,121 @@
+body {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'MyriadProRegular', sans-serif;
+  font-size: 15px;
+}
+.container {
+  background: url(../img/bg.png) no-repeat #010101;
+  width: 800px;
+  height: 500px;
+}
+.sign {
+  width: 630px;
+  margin: 19px auto;
+}
+.nav-tabs {
+  border: none;
+  margin-left: 27px;
+}
+.nav-tabs li {
+  margin-bottom: -2px;
+}
+.nav-tabs li a {
+  border: none;
+  margin-right: 9px;
+  font-size: 24px;
+  color: #080808;
+  padding: 2px 16px;
+  background-color: #ffffff;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:focus,
+.nav-tabs > li.active > a {
+  color: #ffffff;
+  background-color: #03a5da;
+  border: none;
+  text-shadow: 1px 1px 2px #000000;
+  z-index: 2;
+}
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus:hover,
+.nav-tabs > li.active > a:hover {
+  border: none;
+  background-color: #03a5da;
+  color: #ffffff;
+}
+.form {
+  position: relative;
+  background: #03a5da;
+  border-radius: 5px;
+  padding: 21px 24px 24px 24px;
+  border-top: 2px solid #7dd7f4;
+}
+form {
+  background-color: #000000;
+  padding: 33px 57px 30px 43px;
+  border-radius: 5px;
+  border: 1px solid #7dd7f4;
+}
+form input {
+  color: #ffffff;
+}
+form input:focus {
+  outline: none;
+}
+.inp {
+  width: 100%;
+  height: 61px;
+  margin-top: 32px;
+  padding: 15px 20px;
+  font-size: 24px;
+  border: none;
+  border-radius: 5px;
+  background: url(../img/bg-inputs.png) repeat #000000;
+  -webkit-box-shadow: inset 0px 5px 5px rgba(0, 0, 0, 0.9);
+          box-shadow: inset 0px 5px 5px rgba(0, 0, 0, 0.9);
+}
+.inp::-webkit-input-placeholder {
+  font-size: 24px;
+  color: #ffffff;
+}
+.inp:-ms-input-placeholder {
+  font-size: 24px;
+  color: #ffffff;
+}
+.inp::placeholder {
+  font-size: 24px;
+  color: #ffffff;
+}
+.link-check {
+  margin: 16px 0 0px 24px;
+}
+.link-check a {
+  display: inline-block;
+  margin-bottom: 51px;
+  color: #c51f03;
+}
+.link-check span {
+  color: #6f6d6d;
+}
+input[type=checkbox] {
+  margin-right: 4px;
+  color: #6f6d6d;
+}
+input[type=checkbox]:focus {
+  outline: none;
+}
+.button-red {
+  position: absolute;
+  background: url(../img/button-red.png) no-repeat;
+  width: 128px;
+  height: 59px;
+  right: -10px;
+  bottom: 17px;
+}
+.button-red a {
+  display: inline-block;
+  margin: 3px 23px;
+  color: #ffffff;
+  font-size: 24px;
+}
