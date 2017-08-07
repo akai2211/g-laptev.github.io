@@ -46,4 +46,10 @@
 
 [Урок 17](https://g-laptev.github.io/Lesson_17/ "Готово") -  Всплывающие окна.
 
+[Урок 17.1](https://g-laptev.github.io/Lesson_17.1/ "Готово") -  Верстка всплывающих окон на сайте.
+
+[Урок 18](https://g-laptev.github.io/Lesson_18/ "Готово") -  Табы и аккордеон на сайте.
+
+[Урок 18.1](https://g-laptev.github.io/Lesson_18.1/ "Готово") -  Верстка блока с ценами.
+
 [Все исходники](https://github.com/g-laptev/g-laptev.github.io/ "Исходники")
