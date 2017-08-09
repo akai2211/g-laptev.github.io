@@ -52,4 +52,6 @@
 
 [Урок 18.1](https://g-laptev.github.io/Lesson_18.1/ "Готово") -  Верстка блока с ценами.
 
+[Урок 19](https://g-laptev.github.io/Lesson_19/ "Готово") -  Анимация на CSS3.
+
 [Все исходники](https://github.com/g-laptev/g-laptev.github.io/ "Исходники")
