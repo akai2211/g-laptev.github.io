@@ -1,0 +1,127 @@
+@bg-color: #010101;
+@bg-form-color: #03a5da;
+@bg-form: #000000;
+@text-tabs-menu: #080808;
+@light: #ffffff;
+@border-color: #7dd7f4;
+@color-pass: #c51f03;
+@grey-text: #6f6d6d;
+
+body {
+	box-sizing: border-box;
+	font-family: 'MyriadProRegular', sans-serif;
+	font-size: 15px;
+}
+
+.container {
+	background: url(../img/bg.png) no-repeat @bg-color;
+	width: 800px;
+	height: 500px;
+}
+
+.sign {
+	width: 630px;
+	margin: 19px auto;
+}
+
+.nav-tabs {
+	border: none;
+	margin-left: 27px;
+	li {
+		margin-bottom: -2px;
+		a {
+			border: none;
+			margin-right: 9px;
+			font-size: 24px;
+			color: @text-tabs-menu;
+			padding: 2px 16px;
+			background-color: @light;
+		}
+	}
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a {
+    color: @light;
+    background-color: @bg-form-color;
+    border: none;
+		text-shadow: 1px 1px 2px @bg-form;
+		z-index: 2;
+    &:hover {
+    	border: none;
+    	background-color: @bg-form-color;
+    	color: @light;
+    }
+}
+
+.form {
+	position: relative;
+	background: @bg-form-color;
+	border-radius: 5px;
+	padding: 21px 24px 24px 24px;
+	border-top: 2px solid @border-color;
+}
+
+form {
+	background-color: @bg-form;
+	padding: 33px 57px 30px 43px;
+	border-radius: 5px;
+	border: 1px solid @border-color;
+	input{
+		color: @light;
+		&:focus {
+			outline: none;
+		}
+	}
+}
+
+.inp {
+	width: 100%;
+	height: 61px;
+	margin-top: 32px;
+	padding: 15px 20px;
+	font-size: 24px;
+	border: none;
+	border-radius: 5px;
+	background:url(../img/bg-inputs.png) repeat #000;
+	box-shadow: inset 0px 5px 5px rgba(0,0,0,0.9);
+	&::placeholder {
+		font-size: 24px;
+		color: @light;
+	}
+}
+
+
+.link-check {
+	margin: 16px 0 0px 24px;
+	a {
+		display: inline-block;
+		margin-bottom: 51px;
+		color: @color-pass;
+	}
+	span {
+		color: @grey-text;
+	}
+}
+
+input[type=checkbox] {
+	margin-right: 4px;
+	color: @grey-text;
+	&:focus {
+		outline: none;
+	}
+}
+
+.button-red {
+	position: absolute;
+	background: url(../img/button-red.png) no-repeat;
+	width: 128px;
+	height: 59px;
+	right: -10px;
+	bottom: 17px;
+	a {
+		display: inline-block;
+		margin: 3px 23px;
+		color: @light;
+		font-size: 24px;
+	}
+}
