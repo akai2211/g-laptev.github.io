@@ -54,4 +54,10 @@
 
 [Урок 19](https://g-laptev.github.io/Lesson_19/ "Готово") -  Анимация на CSS3.
 
+[Урок 19.1](https://g-laptev.github.io/Lesson_19.1/ "Готово") -  Верстка блока с отзывами.
+
+[Урок 20](https://g-laptev.github.io/Lesson_20/ "Готово") -  Видео-фон на сайте.
+
+[Урок 20.1](https://g-laptev.github.io/Lesson_20.1/ "Готово") -  Доверстали блок с отзывами.
+
 [Все исходники](https://github.com/g-laptev/g-laptev.github.io/ "Исходники")
