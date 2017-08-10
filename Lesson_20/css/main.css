@@ -1,0 +1,34 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: Tahoma, sans-serif;
+}
+.section {
+  min-height: 100vh;
+  text-align: center;
+  width: 100%;
+  display: table;
+  /* 	background: url(../video/Aloha-Mundo.jpg) no-repeat center;
+background-size: cover; */
+}
+.section .wrap-block {
+  display: table-cell;
+  vertical-align: middle;
+  color: #00ffff;
+  font-weight: 700;
+}
+.section .wrap-block h1 {
+  margin-bottom: 0;
+}
+.section .wrap-block h3 {
+  margin-top: 0;
+}
+.section .wrap-block a {
+  color: #00ff00;
+}
+.section .wrap-block a:hover {
+  text-decoration: none;
+}
