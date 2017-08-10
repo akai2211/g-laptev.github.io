@@ -86,14 +86,14 @@ section {
 }
 .main span strong {
   font-size: 3rem;
-  font-weight: 700;
+  font-family: 'ProximaNovaBold', sans-serif;
 }
 .main-trigger {
   display: block;
   margin-top: 3rem;
   font-size: 2.2rem;
   text-transform: uppercase;
-  font-weight: 700;
+  font-family: 'ProximaNovaBold', sans-serif;
 }
 .main-form {
   padding: 4rem 5rem;
@@ -266,6 +266,62 @@ section {
 .feedback {
   background: url(../img/feedback/feedback-bg.jpg) no-repeat center;
   background-size: cover;
+}
+.feedback-prev-btn {
+  left: -4rem;
+}
+.feedback-next-btn {
+  right: -4rem;
+}
+.feedback-text {
+  position: relative;
+  margin-top: 2rem;
+  padding: 1rem;
+  border: 2px solid #46b814;
+  font-style: italic;
+}
+.feedback-text::before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: -2rem;
+  left: 4rem;
+  width: 2rem;
+  height: 2rem;
+  background-color: #ffffff;
+  border: 2px solid #46b814;
+  border-bottom: none;
+  border-top-right-radius: 100px;
+}
+.feedback-slider {
+  padding: 5rem 6rem;
+  background-color: #ffffff;
+  -webkit-box-shadow: 6px 10px 18px 0px rgba(0, 0, 0, 0.11);
+          box-shadow: 6px 10px 18px 0px rgba(0, 0, 0, 0.11);
+}
+.feedback-slider .media {
+  margin-top: 3rem;
+  font-size: 1.4rem;
+}
+.feedback-slider .media h4 {
+  font-size: 1.4rem;
+  font-family: 'ProximaNovaBold', sans-serif;
+}
+.feedback-slider p {
+  font-size: 1.6rem;
+}
+.feedback-slider-btn {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  width: 4rem;
+  height: 5rem;
+  background-color: #46b814;
+  border: none;
+}
+.feedback-slider-btn img {
+  width: 50%;
 }
 /* Оформление модальных окон */
 .popup {
