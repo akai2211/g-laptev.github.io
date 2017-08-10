@@ -10,8 +10,9 @@ $(document).ready(function(){
     $('.popup').fadeOut();
   });
   /*Слайдер с отзывами*/
-  $('.feedback-slider-item').slick({
-
+  $('.feedback-slider').slick({
+    prevArrow: '<button type="button" class="feedback-slider-btn feedback-prev-btn"><img src="../img/feedback/prevArrow.svg" alt="" /></button>',
+    nextArrow: '<button type="button" class="feedback-slider-btn feedback-next-btn"><img src="../img/feedback/nextArrow.svg" alt="" /></button>'
   });
   /* Слайдер с преимуществами*/
   $('.features-slider').slick({
