@@ -60,4 +60,10 @@
 
 [Урок 20.1](https://g-laptev.github.io/Lesson_20.1/ "Готово") -  Доверстали блок с отзывами.
 
+[Урок 21](https://g-laptev.github.io/Lesson_21/ "Готово") -  Parallax эффект для сайта.
+
+[Урок 21.1](https://g-laptev.github.io/Lesson_21.1/ "Готово") -  Верстаем схему работы и все включено.
+
+[Урок 22.1](https://g-laptev.github.io/Lesson_22.1/ "Готово") -  Верстаем блок "Развеиваем сомнения".
+
 [Все исходники](https://github.com/g-laptev/g-laptev.github.io/ "Исходники")
