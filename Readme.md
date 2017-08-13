@@ -64,6 +64,8 @@
 
 [Урок 21.1](https://g-laptev.github.io/Lesson_21.1/ "Готово") -  Верстаем схему работы и все включено.
 
+[Урок 22](https://g-laptev.github.io/Lesson_22/ "Готово") -  Гео-карты для сайта.
+
 [Урок 22.1](https://g-laptev.github.io/Lesson_22.1/ "Готово") -  Верстаем блок "Развеиваем сомнения".
 
 [Все исходники](https://github.com/g-laptev/g-laptev.github.io/ "Исходники")
