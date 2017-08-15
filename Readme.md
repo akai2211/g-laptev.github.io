@@ -70,6 +70,6 @@
 
 [Урок 23](http://pro-dev.ru/ "Готово") -  Хостинг.
 
-[Урок 23.1](https://g-laptev.github.io/Lesson_22.1/ "Готово") -  Верстаем блок "Материалы".
+[Урок 23.1](https://g-laptev.github.io/Lesson_23.1/ "Готово") -  Верстаем блок "Материалы".
 
 [Все исходники](https://github.com/g-laptev/g-laptev.github.io/ "Исходники")
