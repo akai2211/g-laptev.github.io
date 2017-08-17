@@ -78,4 +78,6 @@
 
 [Урок 25](https://g-laptev.github.io/Lesson_25/ "Готово") -  Формы на сайте.
 
+[Урок 25.1](https://g-laptev.github.io/Lesson_25.1/ "Готово") -  Верстаем блок "Контакты" и "Подвал".
+
 [Все исходники](https://github.com/g-laptev/g-laptev.github.io/ "Исходники")
