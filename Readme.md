@@ -80,4 +80,6 @@
 
 [Урок 25.1](https://g-laptev.github.io/Lesson_25.1/ "Готово") -  Верстаем блок "Контакты" и "Подвал".
 
+[Урок 26](https://g-laptev.github.io/Lesson_26/ "Готово") -  Как делаются многостраничные сайты.
+
 [Все исходники](https://github.com/g-laptev/g-laptev.github.io/ "Исходники")
