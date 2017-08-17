@@ -76,4 +76,6 @@
 
 [Урок 24.1](https://g-laptev.github.io/Lesson_24.1/ "Готово") -  Верстаем блок "Экскурсия" и "Доп. услуги".
 
+[Урок 25](https://g-laptev.github.io/Lesson_25/ "Готово") -  Формы на сайте.
+
 [Все исходники](https://github.com/g-laptev/g-laptev.github.io/ "Исходники")
